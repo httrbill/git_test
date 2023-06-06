@@ -1,3 +1,4 @@
 This is me adding data to the hello_world.txt
 This is line 2
 And Line 3
+This is me adding something to an already created file to practice staging, committing, and verifying 
